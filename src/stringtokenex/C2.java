@@ -11,7 +11,7 @@ package stringtokenex;
  */
 public class C2 extends C {
     public C2(){
-        System.out.println("This is C2 inherited from C.");
+        
     }
     
 }
