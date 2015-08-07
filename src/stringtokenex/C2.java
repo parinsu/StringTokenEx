@@ -9,6 +9,9 @@ package stringtokenex;
  *
  * @author parinsu
  */
-public class C2 {
+public class C2 extends C {
+    public C2(){
+        System.out.println("This is C2 inherited from C.");
+    }
     
 }
