@@ -25,6 +25,7 @@ public class StringTokenEx {
         for(int j = 0; j < tokenCount; j++){
             System.out.println("Split Output: " + tokens[j]);
         }
+        System.out.println();
     }
     
 }
